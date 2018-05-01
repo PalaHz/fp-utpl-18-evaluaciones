@@ -4,4 +4,4 @@ seg2=int
 m=int
 m=seg/60
 seg2=seg - (m*60)
-print(" segundos es igual a "+minutos+" minutos y "+segundos2+" segundos")
+print(" segundos es igual a " {m} " minutos y " {seg2} " segundos")

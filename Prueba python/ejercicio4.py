@@ -4,8 +4,11 @@ c=float(input("Ingrese el valor de c: "))
 d=float(input("Ingrese el valor de d: "))
 e=float(input("Ingrese el valor de e: "))
 f=float(input("Ingrese el valor de f: "))
+
 x=float
 y=float
+
 x = (((c*e)-(b*f))/(((a*e)-(b*d))))
 y = (((c*e)-(b*f))/(((a*e)-(b*d))))
-print("El valor de x es: {x}\n El valor de y es: {y}\n"
+
+print("El valor de x es: {0}\n ,el de y es: {1}\n".format(x,y)"
